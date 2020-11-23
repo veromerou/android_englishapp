@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <array name="taurons_names">
+        <item>"book"</item>
+        <item>"box"</item>
+        <item>"brush"</item>
+        <item>"brush my teeth"</item>
+        <item>"bucket"</item>
+        <item>"calendar"</item>
+        <item>"catch"</item>
+        <item>"clap"</item>
+        <item>"comb"</item>
+        <item>"comic"</item>
+        <item>"dance"</item>
+        <item>"do homework"</item>
+        <item>"flag"</item>
+        <item>"get dressed"</item>
+        <item>"get up"</item>
+        <item>"go home"</item>
+        <item>"go to bed"</item>
+        <item>"go to school"</item>
+        <item>"hammer"</item>
+        <item>"have a shower"</item>
+        <item>"have breakfast"</item>
+        <item>"have dinner"</item>
+        <item>"have lunch"</item>
+        <item>"hop"</item>
+        <item>"jump"</item>
+        <item>"keyring"</item>
+        <item>"ladder"</item>
+        <item>"laugh"</item>
+        <item>"letter"</item>
+        <item>"lightbulb"</item>
+        <item>"map"</item>
+        <item>"pin"</item>
+        <item>"pull"</item>
+        <item>"rope"</item>
+        <item>"run"</item>
+        <item>"sack"</item>
+        <item>"saw"</item>
+        <item>"scream"</item>
+        <item>"screw"</item>
+        <item>"shopping_bag"</item>
+        <item>"shopping_trolley"</item>
+        <item>"shout"</item>
+        <item>"skip"</item>
+        <item>"soap"</item>
+        <item>"stamp"</item>
+        <item>"tent"</item>
+        <item>"tissue"</item>
+        <item>"toothbrush"</item>
+        <item>"toothpaste"</item>
+        <item>"towel"</item>
+        <item>"turn_around"</item>
+        <item>"umbrella"</item>
+        <item>"wake up"</item>
+        <item>"walk"</item>
+        <item>"wave"</item>
+        <item>"whisper"</item>
+    </array>
+
+    <integer-array name="taurons_pics">
+        <item>@drawable/book</item>
+        <item>@drawable/box</item>
+        <item>@drawable/brush</item>
+        <item>@drawable/brush_my_teeth</item>
+        <item>@drawable/bucket</item>
+        <item>@drawable/calendar</item>
+        <item>@drawable/catch_the_ball</item>
+        <item>@drawable/clap</item>
+        <item>@drawable/comb</item>
+        <item>@drawable/comic</item>
+        <item>@drawable/dance</item>
+        <item>@drawable/do_homework</item>
+        <item>@drawable/flag</item>
+        <item>@drawable/get_dressed</item>/
+        <item>@drawable/get_up</item>
+        <item>@drawable/go_home</item>
+        <item>@drawable/go_to_bed</item>
+        <item>@drawable/go_to_school</item>
+        <item>@drawable/hammer</item>
+        <item>@drawable/have_a_shower</item>
+        <item>@drawable/have_breakfast</item>
+        <item>@drawable/have_dinner</item>
+        <item>@drawable/have_lunch</item>
+        <item>@drawable/hop</item>
+        <item>@drawable/jump</item>
+        <item>@drawable/keyring</item>
+        <item>@drawable/ladder</item>
+        <item>@drawable/laugh</item>
+        <item>@drawable/letter</item>
+        <item>@drawable/lightbulb</item>
+        <item>@drawable/map</item>
+        <item>@drawable/pin</item>
+        <item>@drawable/pull</item>
+        <item>@drawable/rope</item>
+        <item>@drawable/run</item>
+        <item>@drawable/sack</item>
+        <item>@drawable/saw</item>
+        <item>@drawable/scream</item>
+        <item>@drawable/screw</item>
+        <item>@drawable/shopping_bag</item>
+        <item>@drawable/shopping_trolley</item>
+        <item>@drawable/shout</item>
+        <item>@drawable/skip</item>
+        <item>@drawable/soap</item>
+        <item>@drawable/stamp</item>
+        <item>@drawable/tent</item>
+        <item>@drawable/tissue</item>
+        <item>@drawable/toothbrush</item>
+        <item>@drawable/toothpaste</item>
+        <item>@drawable/towel</item>
+        <item>@drawable/turn_around</item>
+        <item>@drawable/umbrella</item>
+        <item>@drawable/wake_up</item>
+        <item>@drawable/walk</item>
+        <item>@drawable/wave</item>
+        <item>@drawable/whisper</item>
+    </integer-array>
+
+        <array name="taurons_names">
+        <item>"ant"</item>
+        <item>"bee"</item>
+        <item>"beetle"</item>
+        <item>"butterfly"</item>
+        <item>"caterpillar"</item>
+        <item>"cockroach"</item>
+        <item>"dragonfly"</item>
+        <item>"fly"</item>
+        <item>"grasshopper"</item>
+        <item>"ladybird"</item>
+        <item>"mosquito"</item>
+        <item>"spider"</item>
+    </array>
+
+    <integer-array name="taurons_pics">
+        <item>@drawable/ant</item>
+        <item>@drawable/bee</item>
+        <item>@drawable/beetle</item>
+        <item>@drawable/butterfly</item>
+        <item>@drawable/caterpillar</item>
+        <item>@drawable/cockroach</item>
+        <item>@drawable/dragonfly</item>
+        <item>@drawable/fly</item>
+        <item>@drawable/grasshopper</item>
+        <item>@drawable/ladybird</item>
+        <item>@drawable/mosquito</item>
+        <item>@drawable/spider</item>
+    </integer-array>
+-->p
+    <array name="taurons_names">
+        <item>"black_bear"</item>"
+        <item>"boa_constrictor"</item>"
+        <item>"camel"</item>"
+        <item>"cheetah"</item>"
+        <item>"chimpanzee"</item>"
+        <item>"crocodile"</item>"
+        <item>"deer"</item>"
+        <item>"elephant"</item>"
+        <item>"fox"</item>"
+        <item>"frog"</item>"
+        <item>"giraffe"</item>"
+        <item>"grizzly_bear"</item>"
+        <item>"hippo"</item>"
+        <item>"kangaroo"</item>"
+        <item>"koala"</item>"
+        <item>"lemur"</item>"
+        <item>"leopard"</item>"
+        <item>"lion"</item>"
+        <item>"meerkat"</item>"
+        <item>"monkey"</item>"
+        <item>"orangutan"</item>"
+        <item>"panda_bear"</item>"
+        <item>"penguin"</item>"
+        <item>"polar_bear"</item>"
+        <item>"rhino"</item>"
+        <item>"seal"</item>"
+        <item>"snail"</item>"
+        <item>"squirrel"</item>"
+        <item>"tiger"</item>"
+        <item>"tortoise"</item>"
+        <item>"wolf"</item>"
+        <item>"zebra"</item>"
+    </array>
+
+    <integer-array name="taurons_pics">
+        <item>@drawable/black_bear</item>"
+        <item>@drawable/boa_constrictor</item>"
+        <item>@drawable/camel</item>"
+        <item>@drawable/cheetah</item>"
+        <item>@drawable/chimpanzee</item>"
+        <item>@drawable/crocodile</item>"
+        <item>@drawable/deer</item>"
+        <item>@drawable/elephant</item>"
+        <item>@drawable/fox</item>"
+        <item>@drawable/frog</item>"
+        <item>@drawable/giraffe</item>"
+        <item>@drawable/grizzly_bear</item>"
+        <item>@drawable/hippo</item>"
+        <item>@drawable/kangaroo</item>"
+        <item>@drawable/koala</item>"
+        <item>@drawable/lemur</item>"
+        <item>@drawable/leopard</item>"
+        <item>@drawable/lion</item>"
+        <item>@drawable/meerkat</item>"
+        <item>@drawable/monkey</item>"
+        <item>@drawable/orangutan</item>"
+        <item>@drawable/panda_bear</item>"
+        <item>@drawable/penguin</item>"
+        <item>@drawable/polar_bear</item>"
+        <item>@drawable/rhino</item>"
+        <item>@drawable/seal</item>"
+        <item>@drawable/snail</item>"
+        <item>@drawable/squirrel</item>"
+        <item>@drawable/tiger</item>"
+        <item>@drawable/tortoise</item>"
+        <item>@drawable/wolf</item>"
+        <item>@drawable/zebra</item>"
+    </integer-array>
+
+</resources>
